@@ -1,2 +1,1 @@
-Тестовый файл для раьоты с git
-
+docker_compose.yml -  совершает сборку сервера php, PostgreSQL
