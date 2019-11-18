@@ -1,1 +1,1 @@
-docker_compose.yml -  совершает сборку сервера php, PostgreSQL
+docker-compose.yml -  совершает сборку сервера php, PostgreSQL
